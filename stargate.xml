@@ -1,0 +1,26 @@
+<STARGATE_CHARACTERS>
+    <CHARACTER>
+        <NAME>Jack O'Neill</NAME>
+        <JOB>Military</JOB>
+        <PLANET>Earth</PLANET>
+        <RACE>Human</RACE>
+    </CHARACTER>
+    <CHARACTER>
+        <NAME>Samantha Carter</NAME>
+        <JOB>Scientist</JOB>
+        <PLANET>Earth</PLANET>
+        <RACE>Human</RACE>
+    </CHARACTER>
+    <CHARACTER>
+        <NAME>Daniel Jackson</NAME>
+        <JOB>Archeologist</JOB>
+        <PLANET>Earth</PLANET>
+        <RACE>Human</RACE>
+    </CHARACTER>
+    <CHARACTER>
+        <NAME>Teal'c</NAME>
+        <JOB>Military</JOB>
+        <PLANET>Chulak</PLANET>
+        <RACE>Jaffa</RACE>
+    </CHARACTER>
+</STARGATE_CHARACTERS>
